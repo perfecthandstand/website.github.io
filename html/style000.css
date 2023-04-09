@@ -1,0 +1,93 @@
+
+body {
+    background-color: rgb(241, 226, 191);
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	background-color: #ffd484b0;
+	color: #696b67;
+	padding: 20px;
+	text-align: center;
+	width: 100%;
+}
+
+.navbar {
+	background-color: #fce4a2c0;
+	overflow: hidden;
+	width: 100%;
+}
+
+.navbar a {
+	float: left;
+	display: block;
+	color: #333;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	background-color: #e9cb79cc;
+	color: #333;
+}
+
+.content {
+	padding: 20px;
+	text-align: center;
+	font-size: 18px;
+}
+
+.footer {
+	background-color: #ffd484b0;
+	color: #696b67;
+	padding: 15px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.footer a{
+    color: #696b67;
+    text-decoration: none;
+}
+
+.footer a:hover {
+	background-color: #f0e087d5;
+	color: #696b67;
+}
+/* 以下為footer01 請注意 */
+
+.footer01 {
+	background-color: #ffd484;
+	color: #696b67;
+	padding: 15px;
+	text-align: center;
+	position: fixed;
+	bottom:  0;
+	width: 100%;
+}
+
+.footer01 a{
+    color: #696b67;
+    text-decoration: none;
+	padding: 15px;
+
+}
+
+.footer01 a:hover {
+	background-color: #ffdb77;
+	color: #696b67;
+}
+
+.hometext{
+    text-align: center;
+    color: rgb(66, 66, 58);
+}
+
+.phototext{
+    text-align: center;
+    font-size: 10px;
+}
